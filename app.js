@@ -1,3 +1,6 @@
+// https://app.codesignal.com/
+// https://wachino.github.io/codefights/
+
 /* Write a function that returns the sum of two numbers.
 
 Example
